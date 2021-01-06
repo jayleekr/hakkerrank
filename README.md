@@ -1,1 +1,1 @@
-# hakkerrank
+# HakkerRank solutions archive
